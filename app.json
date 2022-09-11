@@ -1,0 +1,12 @@
+{
+  "name": "Vaib_ecom",
+  "displayName": "Vaib_ecom",
+  "expo": {
+    "name": "Vaib_ecom",
+    "slug": "Vaib_ecom",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
